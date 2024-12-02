@@ -1,40 +1,32 @@
 ---
 layout: archive
-title: "Selected Projects"
+title: "Academic Projects"
 permalink: /projects/
 sidebar:
   nav: "projects"
 ---
 
 
-## [COVID-19 Vaccine Supply Chain](https://github.com/Risvy/VSN-A-Hyperledger-Fabric-Project)
+## [TourGuide](https://github.com/Akib-Alvee/TourGuide)
+**Used Technologies:** Python, Django, PostgreSQL
+<ul>
+  <li>Web platform for the reservation of tours and flights, sharing experiences, rating recommendations, and providing feedback</li>
+  <li>I've developed the backend for tour bookings, user authentication, blogging, and airline reservations</li>
+</ul>
 
-A blockchain project implementing a private blockchain-powered supply chain to establish end-to-end traceability for the COVID-19 vaccine, while guaranteeing secure distribution and transportation.
-
-**Technology:** Hyperledger Fabric, Node.js, JavaScript, Apache CouchDB.
-
-<a href="https://risvy.github.io/accomplishments/">Showcased in BCOLBD 2022</a>
+<a href="https://youtu.be/0uX4cQpkpTg?si=tS9ZeEOvrZih_5tO">View in Youtube</a>
 
 <!-- [GitHub Link](https://github.com/Risvy/VSN-A-Hyperledger-Fabric-Project) -->
 
-## [Text Summarization](https://github.com/Risvy/Bangla-Text-and-Document-Summarizer)
+## [FitmentCraft](https://github.com/fahim-01/ecommerce)
+**Used Technologies:** NodeJS, ReactJS, ExpressJS, MongoDB
+<ul>
+  <li>Simulated an e-commerce system integrating an online retailer, a backend supplier, and a bank to handle transactions.</li>
+  <li>I've managed the Bank and Supplier APIs, facilitating seamless transactions between users, the e-commerce platform, and the supplier</li>
+</ul>
 
-A machine learning project that summarizes Bangla language using unsupervised learning where users can get both abstractive and extractive summaries of their input text.
-
-**Technology:** Python.
-
-## [E-commerce & Bank](https://github.com/Risvy/API-Project-Ecommerce-)
-
-API-based website to simulate the functionalities of e-commerce services among 3 different organizations i.e., Customer, Supplier, and a Bank for instant transactions.
-
-**Technology:** Node.js, Express.js, MongoDB.
-
-<!-- [GitHub Link](https://github.com/Risvy/API-Project-Ecommerce-) -->
-
-## [SUST CSE Community](https://github.com/Risvy/SUST-CSE-Community)
-
-A social networking Android app that connects current students with the alumni of CSE dept, SUST. Students can search using the alumni’s name, batch, or current workplace.
-
-**Technology:** Android Studio, Java.
-
-<!-- [GitHub Link](https://github.com/Risvy/SUST-CSE-Community) -->
+## [Coloring-Black-and-White-Photos](https://github.com/Akib-Alvee/Coloring-Black-and-White-Photos)
+**Used Technologies:** Tensorflow-keras, openCV
+<ul>
+  <li>Implemented and trained an adversarial model based on the paper of ChromaGAN that successfully colorizes BnW images by learning perceptual and semantic correlations between color distributions and class features</li>
+</ul>
