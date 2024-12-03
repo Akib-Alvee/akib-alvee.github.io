@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Selected Accomplishments"
-permalink: /accomplishments/
+permalink: /achievements/
 ---
 
 # Selected Achievements
