@@ -15,3 +15,14 @@ My research interests lie at the intersection of Artificial Intelligence and its
 # Undergraduate Thesis
 **Title:** Enhancement and Improvement of Underwater Image Semantics Using Multi-Domain Neural Rendering<br>
 **Short Description:** Our focus was to identify the common image degradation issues and challenges in underwater environments, and propose a neural network to enhance the underwater images. We set our focus to overcome the low-light, color imbalance and saturation distortions in underwater images. We've used Normalizing Flows combining with multiple color spaces to extract the complex features from raw images. Flow-based model was motivated from OpenAI’s [Glow](https://openai.com/index/glow/) architecture to enhance underwater images, delivering results that matched the quality of state-of-the-art methods and we are planning to publish this work soon. I was fortunate to work with [M. Jahirul Islam, PhD., PEng](https://www.sust.edu/department/cse/faculty/jahir@sust.edu) , [Summit Haque](https://www.sust.edu/department/cse/faculty/summit-cse@sust.edu)  and [Sowmen Das](https://scholar.google.com/citations?user=8RVbUP8AAAAJ&hl=en) as my thesis advisors.
+
+
+## Skills
+
+<b>Programming Skills:</b> Solved 1200+ programming problems on [LeetCode](https://leetcode.com/akib_alvee/), [LeetCode](https://leetcode.com/akib_alvee/), [Codeforces](https://codeforces.com/profile/akib_alvee), [LightOJ](https://lightoj.com/user/akibulislam6), [Vjudge](https://vjudge.net/user/2017331049), [StopStalk](https://www.stopstalk.com/user/profile/akib_alvee) 
+<br>
+<b>Programming Languages:</b> C++, C, C#, Python, Java, Javascript
+<br>
+<b>Framework:</b> Pytorch, Gstreamer, WebRTC, Django, ReactJS
+<br>
+<b>Version & Task Management:</b> GitHub, Gerrit, Jira
