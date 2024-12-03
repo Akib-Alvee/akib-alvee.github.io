@@ -8,11 +8,13 @@ main:
   - title: "CV"
     url: /files/Resume_Akibul_Islam.pdf
 
+  - title: "Professional Experience"
+    url: /experience/
+
   - title: "Projects"
     url: /projects/
 
   - title: "Accomplishments"
     url: /accomplishments/
 
-  - title: "Experience"
-    url: /experience/
+  
