@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Software Engineer at [Samsung Research]([https://research.samsung.com/srbd](https://research.samsung.com/)). I've completed my Bachelor degree from Shahjalal University of Science & Technology, SUST.
+I am a Software Engineer at [Samsung Research](https://research.samsung.com/). I've completed my Bachelor degree from Shahjalal University of Science & Technology, SUST.
 
 My research interests lie at the intersection of Artificial Intelligence and its collaboration with humans. Broadly, I am interested in understanding the inner workings of generative models and their diverse applications. My focus is to explore how these AI models can enhance human interaction in domains such as extended reality, AI-driven agent simulations, and adaptive learning systems. Additionally, I wish to develop tools that make AI more reliable, interpretable, and accessible for human use, ensuring its seamless integration into various aspects of life.
 
