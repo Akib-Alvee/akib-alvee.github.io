@@ -20,23 +20,23 @@ My research interests lie at the intersection of Artificial Intelligence and its
 <ul>
   <li><b>Class Representative at CSE, SUST</b>
     <ul>
-      <li> I served as the Class Representative of my class from early 2019 until my graduation. My primary responsibilities included maintaining effective communication between students and faculty, organizing class schedules, co-ordinating class activities, representing students' concerns to the higher authority. 
+      <li> I served as the Class Representative of my class from early 2019 until my graduation. My primary responsibilities included maintaining effective communication between students and faculty, organizing class schedules, co-ordinating class activities, representing students' concerns to the higher authority. </li>
     </ul>
   </li>
   <li><b>Creative Executive at SUST ACM Student Chapter</b>
     <ul>
-      <li> SUST ACM Student Chapter facilitates career support to its member and CS enthusiasts through seminars, lectures and networking events. I managed the multimedia operations for various workshops and effectively represented them on digital platforms.   
+      <li> SUST ACM Student Chapter facilitates career support to its member and CS enthusiasts through seminars, lectures and networking events. I managed the multimedia operations for various workshops and effectively represented them on digital platforms.</li>   
     </ul>
   </li>
   <li><b>Team Leader at SUST LICT Tech Fest 2019</b>
     <ul>
-      <li> The tech fest was organized by Department of CSE, EEE and SWE SUST. I had the opportunity to organize and execute the Project Showcase event in this fest.    
+      <li> The tech fest was organized by Department of CSE, EEE and SWE SUST. I had the opportunity to organize and execute the Project Showcase event in this fest.</li>   
     </ul>
   </li>
 </ul>
 
-# Skills
 
+# Skills
 <b>Programming Skills:</b> Solved 1200+ programming problems on [LeetCode](https://leetcode.com/akib_alvee/), [LeetCode](https://leetcode.com/akib_alvee/), [Codeforces](https://codeforces.com/profile/akib_alvee), [LightOJ](https://lightoj.com/user/akibulislam6), [Vjudge](https://vjudge.net/user/2017331049), [StopStalk](https://www.stopstalk.com/user/profile/akib_alvee) 
 <br>
 <b>Programming Languages:</b> C++, C, C#, Python, Java, Javascript
