@@ -4,7 +4,7 @@ title: "Selected Achievements"
 permalink: /achievements/
 ---
 
-## [Excellence Award](https://research.samsung.com/news/SRBD-Organized-its-First-Ever-AI-PoC-Exhibition)
+## Excellence Award
 I've received Excellence award for my contribution in SmartThings Windows Project development in July-September on the year 2024
 
 <div style="text-align:center;">
