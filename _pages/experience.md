@@ -4,13 +4,14 @@ title: "Experience"
 permalink: /experience/
 author_profile: true
 ---
-### Software Engineer at [Samsung R&D Institute Bangladesh](https://research.samsung.com/srbd)
-<ul>
-  <li>Worked on the CameraPlugin module of Samsung SmartThings to enable the live streaming, two-way talk using WebRTC & Gstreamer framework</li>
-  <li>Developed the LiveStreaming, Two-way-talk, Audio-Video Mixing and Transcoding pipeline from scratch using Gstreamer framework in C++</li>
-  <li>Worked with SDP Offer exchange protocol, media stream transmission/receiving through the Transceiver module, and P2P Connection establishment via WebRTC in C++</li>
-  <li>Implemented hardware-accelerated rendering using Hardware Pointer in C++ and utilized AppServiceConnection for efficient IPC communication, including request handling and data parsing from the server using the .NET framework</li>
-  <li>Developed the Push Notification features for CameraDevices, also handled the Server Sent Event during the streaming from other IoT devices</li>
-  <li>Contributed to the Android part of Samsung DeX, enabling USB and Wi-Fi connections with WindowsApp, as well as file drag-and-drop and copy-paste between PC and mobile devices</li>
-  <li>Worked with the Connection Broadcast event to establish the connection using Socket Programming in Java</li>
-</ul>
+### Senior Software Engineer at [Samsung R&D Institute Bangladesh](https://research.samsung.com/srbd)
+
+- Worked on the **CameraPlugin**, **Location Summary** and **HomeInsightSettings** module of Samsung SmartThings.
+- Designed and implemented a reactive system (using **Rx.NET**) to process REST API responses and store data efficiently in **SQLite DB**, enabling instant app startup with cached data and real-time updates upon remote changes.
+- Developed live-streaming, two-way-talk and frame capture pipeline from scratch for **IoT Cameras** using **WebRTC** and **Gstreamer** framework in C++.
+- Developed the streaming pipeline from **Push Notification** for IoT CameraDevices with efficient Server Sent Event(SSE) handling during the streaming.
+- Worked with **SDP Offer Exchange Protocol**, media stream transmission/receiving through the RTCTransceiver module, and P2P Connection establishment between server and IoT camera devices via WebRTC in C++.
+- Implemented **hardware-accelerated rendering** using Hardware Pointer in C++ and utilized
+**AppServiceConnection** and **Systray** for efficient IPC communication.
+- Diagonised and resolved **deadlock** and **concurrency** issues using multithreading and mutex mechanisms, resulting in an almost **90% reduction of FCs**.
+- Optimized app performance and stability by preventing memory leakages and conducting thread, memory, and CPU profiling using tools like **Visual Studio Profiler**.
